@@ -1,8 +1,9 @@
-What the project does:
+##What the project does:
    
    The project takes ADB screenshots of the screen and detects the shapes and matrix of the Block Blast game. The user enters them manually.
 
-Instructions for use:
+
+##Instructions for use:
    
    0. Install Python and ADB if necessary
    1. Install modules in requirements.txt
